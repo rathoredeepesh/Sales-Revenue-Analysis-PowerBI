@@ -21,4 +21,4 @@ This Power BI dashboard analyzes sales, revenue, orders, products, and category 
 
 ## Dashboard Preview
 
-![Sales & Revenue Analysis Dashboard](dashboard.png)
+![Sales & Revenue Analysis Dashboard](IMG_7416.png)
